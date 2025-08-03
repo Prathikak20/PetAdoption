@@ -1,0 +1,16 @@
+.profile{
+    display: block;
+}
+
+.admin{
+    color:brown;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+  
+}
+.user{
+        color:brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size:xx-large;
+ 
+}
